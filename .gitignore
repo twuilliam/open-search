@@ -1,0 +1,17 @@
+# Python
+*.pyc
+*.pkl
+*.pth
+
+# Mac
+.DS_Store
+._.DS_Store
+
+# Other
+*.jpg
+*.eps
+*.mp4
+*.mat
+*.tar
+*.json
+*.sublime*

@@ -2,9 +2,9 @@
 
 This is the source code for reproducing the experiments from the paper:
 
-[Open Cross-Domain Visual Search](https://arxiv.org/abs/1911.08621)
-**William Thong, Pascal Mettes, Cees G.M. Snoek**
-Computer Vision and Image Understanding (CVIU), *in press*, 2020
+[Open Cross-Domain Visual Search](https://arxiv.org/abs/1911.08621)  
+**William Thong, Pascal Mettes, Cees G.M. Snoek**  
+Computer Vision and Image Understanding (CVIU), vol.200, 2020  
 
 **TL;DR** *We search for seen and unseen categories from any source domain to any target domain.
 To achieve this, we train domain-specific prototype-learner with a normalized temperature-scaled cross entropy loss to map inputs to a common semantic space.*
@@ -99,6 +99,6 @@ If you find these scripts useful, please consider citing our paper:
     author={Thong, William and Mettes, Pascal and Snoek, Cees G.M.},
     journal={CVIU},
     year={2020},
-    url={https://arxiv.org/abs/1911.08621}
+    url={https://doi.org/10.1016/j.cviu.2020.103045}
 }
 ```
